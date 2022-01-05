@@ -10,12 +10,12 @@
 *VS Code
 *FIGMA
 ##Code example:
-~~~function sum(a, b) {
+~function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
-alert( result );~~~
+alert( result );
 
 
 *Courses*
