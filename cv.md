@@ -9,8 +9,13 @@
 *HTML5, CSS3
 *VS Code
 *FIGMA
-Code example:
+##Code example:
+~~~function sum(a, b) {
+  return a + b;
+}
 
+let result = sum(1, 2);
+alert( result );~~~
 
 
 *Courses*
